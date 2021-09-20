@@ -63,5 +63,9 @@ expected test proba result from above input: .97901185
 }
  </pre> 
 
-## HTTP Method Rule:
-- http://127.0.0.1:5000/predict using 'POST'
+## HTTP Method 101:
+- You need to install all of the packages by call the requirements.txt on your command prompt
+- Open `used_app.py` in the main repository and run it
+- Open Postman apps to overview the final results
+- Set the URL http://127.0.0.1:5000/predict using 'POST' method and put the Input in the body section
+- Change the content type to JSON
