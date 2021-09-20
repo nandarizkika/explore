@@ -1,4 +1,4 @@
-input format:
+input format (raw - JSON):
 <pre> 
 {
     'person_age': 21,
