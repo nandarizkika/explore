@@ -1,4 +1,4 @@
-by using dataset 'credit_risk_dataset.csv' from repository 'data/', a prediction will be made to determine credit risk classification
+by using dataset `credit_risk_dataset.csv` from repository `data/`, a prediction will be made to determine credit risk classification
 
 input format (raw - JSON):
 <pre> 
