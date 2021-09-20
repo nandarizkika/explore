@@ -28,5 +28,5 @@ expected output format:
 }
  </pre> 
 
-http method rule:
-- http://127.0.0.1:5000/predict (POST)
+HTTP method rule:
+- http://127.0.0.1:5000/predict using 'POST'
